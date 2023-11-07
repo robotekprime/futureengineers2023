@@ -97,6 +97,22 @@ Power Schemes for every electronic part of the vehicle can be found here:
 
 ## Obstacle Management
 
+Effective obstacle management is a critical aspect of our autonomous self-driving robot's navigation system, ensuring it can safely and intelligently navigate through challenging scenarios in the WRO competition. In this section, we elaborate on our obstacle management strategies and the key components involved in this crucial aspect of our robot's functionality.
+
+### Sensor-Based Obstacle Detection
+
+Our robot relies on a Pixy v2 Camera to detect obstacles, differentiating between red and green objects with precision. The camera's built-in plugin allows for the recognition of color-based signatures, making it a versatile and efficient tool for identifying obstacles.
+To ensure accurate color detection, we employ PixyMon software to calibrate the camera. This calibration process fine-tunes the camera's color recognition capabilities, allowing our robot to precisely distinguish between red and green obstacles on the competition field.
+
+![extract](./img/)
+
+### Trajectory Calibration
+Calibrating the robot's trajectory is a vital step in ensuring it safely navigates around obstacles. This process involves placing obstacles in designated locations on the competition field and guiding the robot to drive around them. As the robot maneuvers around obstacles, we record the coordinates of these obstacles in a table for later analysis and fine-tuning.
+Once the obstacle coordinates are collected, we import this data into software tools such as Microsoft Excel or Google Sheets. In these programs, we create graphical representations, which often take the form of exponential functions. This function encapsulates the ideal path for the robot to follow when circumventing obstacles.
+
+### Integration into the Robot's Program
+With the optimized obstacle-avoidance trajectory in hand, we proceed to integrate it into our robot's program. Our program includes a regulator designed to interpret and act upon the trajectory data.
+This regulator operates in real-time, continuously assessing the robot's position in relation to the obstacles and adjusting its path accordingly. By using the trajectory data as a reference, the regulator guides the robot in a manner that ensures smooth and efficient obstacle avoidance. Additionally, a proportional-integral-derivative (PID) controller is employed to further fine-tune and enhance the robot's responsiveness when navigating around obstacles.
 
 
 ***
