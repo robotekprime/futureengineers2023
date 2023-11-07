@@ -30,7 +30,8 @@
 
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
-A full list of all the components (not including a camera) can be found here: part-list
+A full list of all the components (not including a camera) can be found here: 
+A 3D model of the robot made in Studio 2.0 can be found here: 
 ***
 
 ## Mobility Management
