@@ -26,12 +26,10 @@
   * [Team Photos](#team-photos)
   * [Vehicle Photos](#vehicle-photos)
 * [**Performance Videos**](#performance-videos)
-* [**Conclusion**](#conclusion)
 
 ***
 ## Our vehicle: 
-![render](./img/robot.render.jpeg)
-
+![vehph](./v-photos/Car_components.PNG)
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
 A full list of all the components (not including the camera) can be found here: [Part List](models/part-list.pdf)
@@ -54,7 +52,7 @@ Given the constraints of our compact vehicle dimensions (300x200x300mm) and the 
 
 The steering mechanism, located in the front, utilizes smaller wheels, while the driving mechanism at the rear incorporates larger Lego Technic wheels placed closely together.
 The placement of larger wheels at the rear serves multiple practical purposes. Larger wheels cover more ground per revolution, resulting in higher linear speed, which aligns with our priority for speed in the competition. Additionally, positioning the larger rear wheels as close to each other as possible, known as a "narrow rear track," mitigates the absence of a differential system. A narrow rear track minimizes the difference in wheel paths during turns, enhancing the vehicle's maneuverability and reducing wheel scrub.
-
+![render](./img/robot.render.jpeg)
 ***
 
 ## Power and Sense Management
@@ -85,8 +83,13 @@ To protect the EV3 brick from short circuit, 3 poly switches are included, one f
 ## Photos
 
 ### Vehicle Photos
+![vehph](./v-photos/Car_funny.PNG)
 ![vehph](./v-photos/1.jpg)
-
+![vehph](./v-photos/2.jpg)
+![vehph](./v-photos/3.jpg)
+![vehph](./v-photos/4.jpg)
+![vehph](./v-photos/5.jpg)
+![vehph](./v-photos/6.jpg)
 
 ### Team Photos
 
@@ -104,10 +107,6 @@ Qualification Round Challenge: https://www.youtube.com/watch?v=faX3JqHLdDE
 Obstacle Round Challenge: https://www.youtube.com/watch?v=62VS994mklY
 
 Robot Parts Disscussion: https://www.youtube.com/watch?v=GfSPQbBEkag
-
-***
-
-## Conclusion
 
 ***
 
