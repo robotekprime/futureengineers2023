@@ -25,6 +25,13 @@
 * [**Conclusion**](#conclusion)
 
 ***
+## Our vehicle: 
+![render](./img/robot.render.jpeg)
+
+We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
+
+A full list of all the components (not including a camera) can be found here: part-list
+***
 
 ## Mobility Management
 
@@ -46,7 +53,7 @@ The placement of larger wheels at the rear serves multiple practical purposes. L
 
 ## Power and Sense Management
 
-### Used Sensors
+### Used Management
 
 Our autonomous vehicle relies on a combination of sensors to execute precise movements, crucial for both obstacle avoidance and the qualification challenges of the competition.
 
@@ -58,6 +65,7 @@ Gyro Sensor: The gyro sensor plays a pivotal role in maintaining proper alignmen
 
 The PID regulator operates in a continuous loop throughout the program, ensuring the vehicle remains aligned and on the intended path, supporting its autonomous navigation capabilities.
 
+### Power Management
 
 ***
 
