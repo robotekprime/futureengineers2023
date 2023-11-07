@@ -74,6 +74,25 @@ Pixy v2 Camera: A camera is used to detect and differentiate obstacles during th
 ### Power Management
 The power for the EV3 Brick and the whole vehicle comes from a rechargeable 10V Lithium Battery. Power management within the EV3 brick consists of multiple switching regulations which are tightly controlled and interlinked in order to boot the electronic circuit correctly.
 To protect the EV3 brick from short circuit, 3 poly switches are included, one for each of the two motor drivers and one for the rest of the circuit. Each poly switch has a hold current at approximately 1.1 A and will be triggered at approximately 2.2 A.
+
+Power Schemes for every electronic part of the vehicle can be found here:
+
+[Color Sensor](schemes/color-sensor,pdf)
+
+[Gyro Sensor](schemes/gyro-sensor.pdf)
+
+[Medium Motor](schemes/medium-motor.pdf)
+
+[Pixy v2](schemes/pixy2_schematic-2.2.pdf)
+
+[Ultrasonic Sensor](schemes/ultrasonic-sensor.pdf)
+
+[EV3 P-Brick](schemes/programmable-brick.pdf)
+
+[Rechargeable Battery](schemes/rechargeable-battery.pdf)
+
+[Ultrasonic Sensor](schemes/ultrasonic-sensor.pdf)
+
 ***
 
 ## Obstacle Management
