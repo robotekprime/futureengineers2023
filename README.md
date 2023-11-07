@@ -16,7 +16,11 @@
 ## Contents
 
 * [**Mobility Management**](#mobility-management)
+  * [Motor Selection and Implementation](#motor-selection-and-implementation)
+  * [Chassis Design and Implementation](#chassis-design-and-implementation)
 * [**Power and Sense Management**](#power-and-sense-management)
+  *[Sensor Management](#sensor-management)
+  *[Power Management](#power-management)
 * [**Obstacle Management**](#obstacle-management)
 * [**Photos**](#photos)
   * [Team Photos](#team-photos)
@@ -73,7 +77,7 @@ Pixy v2 Camera: A camera is used to detect and differentiate obstacles during th
 The power for the EV3 Brick and the whole vehicle comes from a rechargeable 10V Lithium Battery. Power management within the EV3 brick consists of multiple switching regulations which are tightly controlled and interlinked in order to boot the electronic circuit correctly.
 To protect the EV3 brick from short circuit, 3 poly switches are included, one for each of the two motor drivers and one for the rest of the circuit. Each poly switch has a hold current at approximately 1.1 A and will be triggered at approximately 2.2 A.
 
-![battery](./img/battery.jpeg)
+![battery](./img/battery.jpg)
 ***
 
 ## Obstacle Management
