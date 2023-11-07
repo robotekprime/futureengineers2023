@@ -53,7 +53,7 @@ The placement of larger wheels at the rear serves multiple practical purposes. L
 
 ## Power and Sense Management
 
-### Used Management
+### Sensor Management
 
 Our autonomous vehicle relies on a combination of sensors to execute precise movements, crucial for both obstacle avoidance and the qualification challenges of the competition.
 
