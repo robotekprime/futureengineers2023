@@ -28,6 +28,10 @@
 
 ## Mobility Management
 
+Motor Selection and Implementation
+Motor selection is a crucial component of our vehicle's autonomous navigation system. The Lego MINDSTORMS EV3 set provides two distinct motor options: Large Motors and Medium Motors. In making our selection, we considered key factors such as rotation speed, torque, and encoder accuracy.
+
+![extract]()
 
 ***
 
