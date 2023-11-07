@@ -123,7 +123,7 @@ This regulator operates in real-time, continuously assessing the robot's positio
 
 ### Pseudo Code
 
-
+https://github.com/robotekprime/futureengineers2023/blob/15b467b57086e904b781a81131f443dc3aff1337/src/pseudocode.py#L1-L30 
 
 ***
 
