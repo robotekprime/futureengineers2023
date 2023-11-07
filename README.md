@@ -86,6 +86,8 @@ To protect the EV3 brick from short circuit, 3 poly switches are included, one f
 
 ### Vehicle Photos
 
+
+
 ### Team Photos
 
 
@@ -93,6 +95,12 @@ To protect the EV3 brick from short circuit, 3 poly switches are included, one f
 ***
 
 ## Performance Videos
+
+Qualification Round Challenge: https://www.youtube.com/watch?v=faX3JqHLdDE
+
+Obstacle Round Challenge: https://www.youtube.com/watch?v=62VS994mklY
+
+Robot Parts Disscussion: https://www.youtube.com/watch?v=GfSPQbBEkag
 
 ***
 
