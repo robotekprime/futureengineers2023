@@ -30,8 +30,9 @@
 
 We used components from a EV3 MINDSTORMS Educational kit + a Pixy v2 Camera and some other technic pieces from other sets. 
 
-A full list of all the components (not including a camera) can be found here: 
-A 3D model of the robot made in Studio 2.0 can be found here: 
+A full list of all the components (not including the camera) can be found here: [Part List](models/part-list.pdf)
+
+A 3D model of the robot made in Studio 2.0 can be found here: [3D Model](models/FE-Robot.io)
 ***
 
 ## Mobility Management
@@ -65,6 +66,8 @@ Ultrasonic Sensor: Positioned at the front of the vehicle, the ultrasonic sensor
 Gyro Sensor: The gyro sensor plays a pivotal role in maintaining proper alignment. It detects changes in the vehicle's driving angle, alerting the system to any misalignment or deviation. The implementation of a PID (Proportional-Integral-Derivative) regulator ensures that any deviation from the desired steering angle is continuously corrected, guaranteeing the vehicle's straight and precise trajectory.
 
 The PID regulator operates in a continuous loop throughout the program, ensuring the vehicle remains aligned and on the intended path, supporting its autonomous navigation capabilities.
+
+Pixy v2 Camera: A camera is used to detect and differentiate obstacles during the obstacle round. Custom made 3D Print Models for the [cover](models/pixy-cover.stl) and the [case](models/pixy-case.stl) for the camera can be found in the corresponding links.
 
 ### Power Management
 
