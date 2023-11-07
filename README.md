@@ -78,6 +78,8 @@ To protect the EV3 brick from short circuit, 3 poly switches are included, one f
 
 ## Obstacle Management
 
+
+
 ***
 
 ## Photos
