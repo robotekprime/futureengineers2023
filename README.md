@@ -25,6 +25,7 @@
   * [Sensor-Based Obstacle Detection](#Sensor-Based-Obstacle-Detection)
   * [Trajectory Calibration](#trajectory-calibration)
   * [Integration into the Robot's Program](#Integration-into-the-Robot's-Program)
+  * [Pseudo Code](#pseudo-code)
 * [**Photos**](#photos)
   * [Team Photos](#team-photos)
   * [Vehicle Photos](#vehicle-photos)
